@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "099e6a2c350da31b180a0aa41849208c",
+    "revision": "53d06b386361a2f3b28de9ccf5269c40",
     "url": "/Emojipedia/index.html"
   },
   {
